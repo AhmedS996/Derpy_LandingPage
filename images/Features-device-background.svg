@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1001" height="660" viewBox="0 0 1001 660">
+  <g id="Features_device_background" data-name="Features device background" transform="translate(-1074 -1302)">
+    <g id="Rectangle_42" data-name="Rectangle 42" transform="translate(1075 1302)" fill="none" stroke="#d9e2ef" stroke-width="1">
+      <path d="M100,0h900a0,0,0,0,1,0,0V660a0,0,0,0,1,0,0H100A100,100,0,0,1,0,560V100A100,100,0,0,1,100,0Z" stroke="none"/>
+      <path d="M100,.5H999a.5.5,0,0,1,.5.5V659a.5.5,0,0,1-.5.5H100A99.5,99.5,0,0,1,.5,560V100A99.5,99.5,0,0,1,100,.5Z" fill="none"/>
+    </g>
+    <rect id="Rectangle_43" data-name="Rectangle 43" width="100" height="3" rx="1.5" transform="translate(1074 1682) rotate(-90)" fill="#3e49f3"/>
+    <rect id="Rectangle_252" data-name="Rectangle 252" width="275" height="600" rx="30" transform="translate(1494 1332)" fill="#3e49f3" opacity="0.05"/>
+    <rect id="Rectangle_253" data-name="Rectangle 253" width="275" height="600" rx="30" transform="translate(1799 1332)" fill="#ff4b36" opacity="0.05"/>
+  </g>
+</svg>
