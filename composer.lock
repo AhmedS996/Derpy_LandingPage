@@ -4,6 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "f88e34354f361571871aaf29f80c73a9",
     "packages": [
         {
@@ -332,6 +333,11 @@
             "time": "2023-12-03T20:05:35+00:00"
         },
         {
+=======
+    "content-hash": "baf0b1b659e688a64051c5ee9742a77e",
+    "packages": [
+        {
+>>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
             "name": "phpmailer/phpmailer",
             "version": "v6.9.1",
             "source": {
@@ -411,6 +417,7 @@
                 }
             ],
             "time": "2023-11-25T22:23:28+00:00"
+<<<<<<< HEAD
         },
         {
             "name": "psr/http-client",
@@ -728,6 +735,8 @@
                 }
             ],
             "time": "2024-04-18T09:32:20+00:00"
+=======
+>>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
         }
     ],
     "packages-dev": [],
