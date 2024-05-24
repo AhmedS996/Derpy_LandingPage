@@ -3,10 +3,7 @@ vendor/
 
 # Ignore the specific PHP mail script
 php/
-<<<<<<< HEAD
 # Ignore the .htaccess file
 .htaccess
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 
 

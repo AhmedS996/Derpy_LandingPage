@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 body {
   background-color: #0c111c;
 }
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 .w-layout-grid {
   display: -ms-grid;
   display: grid;
@@ -553,20 +550,13 @@ blockquote {
 }
 
 .paragraph-large.for-user-full-name {
-<<<<<<< HEAD
   color: white;
-=======
-  color: #3e49f3;
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .paragraph-small {
   font-size: 14px;
   line-height: 20px;
-<<<<<<< HEAD
   color: white;
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .sg-accent-primary-2 {
@@ -670,15 +660,9 @@ blockquote {
   padding: 15px 80px 15px 30px;
   border-style: solid;
   border-width: 1px;
-<<<<<<< HEAD
   background-color: #184239;
   border-color: #42ca90;
   border-radius: 4px;
-=======
-  border-color: #08104d;
-  border-radius: 4px;
-  background-color: #08104d;
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
   background-image: url("../images/Arrow-White.svg"),
     url("../images/Arrow-White.svg");
   background-position: 80% 50%, -20% 50%;
@@ -686,11 +670,7 @@ blockquote {
   background-repeat: no-repeat, no-repeat;
   -webkit-transition: background-position 320ms ease, padding 320ms ease;
   transition: background-position 320ms ease, padding 320ms ease;
-<<<<<<< HEAD
   color: #42ca90;
-=======
-  color: #fff;
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
   font-size: 14px;
   line-height: 14px;
   font-weight: 500;
@@ -856,7 +836,6 @@ blockquote {
 .text-field.for-coming-soon {
   margin-right: 30px;
   margin-bottom: 0px;
-<<<<<<< HEAD
   border-bottom-color: #30caa9b0;
   background-color: transparent;
   color: #36e2bc;
@@ -864,15 +843,6 @@ blockquote {
 
 .text-field.for-coming-soon:focus {
   border-bottom-color: #36e2bc;
-=======
-  border-bottom-color: hsla(0, 0%, 100%, 0.5);
-  background-color: transparent;
-  color: #fff;
-}
-
-.text-field.for-coming-soon:focus {
-  border-bottom-color: #fff;
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .text-field.for-coming-soon::-webkit-input-placeholder {
@@ -888,11 +858,7 @@ blockquote {
 }
 
 .text-field.for-coming-soon::placeholder {
-<<<<<<< HEAD
   color: #36e2bc;
-=======
-  color: hsla(0, 0%, 100%, 0.5);
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .text-field.for-subscribe {
@@ -1074,13 +1040,10 @@ blockquote {
   background: linear-gradient(to right, #3ed4a2, #43c2c9);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-<<<<<<< HEAD
   color: white;
   font-size: 40px;
   padding-left: 10px;
   font-weight: bold;
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .section.for-coming-soon {
@@ -1289,11 +1252,8 @@ blockquote {
 
 .coming-soon-heading {
   margin-top: 30px;
-<<<<<<< HEAD
   color: white;
   font-weight: bold;
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .counter-wrapper {
@@ -1336,31 +1296,24 @@ blockquote {
 .counter-block.first-element {
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
-<<<<<<< HEAD
   background-color: #184239;
   border-color: #42ca90;
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .counter-block.last-element {
   border-right-style: solid;
   border-top-right-radius: 4px;
   border-bottom-right-radius: 4px;
-<<<<<<< HEAD
   background-color: #184239;
   border-color: #42ca90;
 }
 .counter-block {
   background-color: #184239;
   border-color: #42ca90;
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .counter-number {
   margin-bottom: 10px;
-<<<<<<< HEAD
   color: #42ca90;
 }
 .counter-title {
@@ -1369,12 +1322,6 @@ blockquote {
 
 .coming-soon-subheading {
   margin-bottom: 20px;
-=======
-}
-
-.coming-soon-subheading {
-  margin-bottom: 60px;
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .coming-soon-form-wrapper {
@@ -1391,11 +1338,7 @@ blockquote {
   justify-content: flex-end;
   border-top-right-radius: 4px;
   border-bottom-right-radius: 4px;
-<<<<<<< HEAD
   background-color: #272727;
-=======
-  background-color: #ff4b36;
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .coming-soon-form {
@@ -1578,10 +1521,7 @@ blockquote {
   margin-bottom: 40px;
   font-size: 18px;
   line-height: 25px;
-<<<<<<< HEAD
   color: #0c111c;
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .hero-image-column {
@@ -1771,20 +1711,13 @@ blockquote {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 4px;
-<<<<<<< HEAD
   background-color: rgba(22, 151, 238, 0.05);
-=======
-  background-color: #fff;
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
 }
 
 .main-feature-name {
   margin-bottom: 10px;
-<<<<<<< HEAD
   color: white;
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .main-feature-block {
@@ -1931,11 +1864,7 @@ blockquote {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 4px;
-<<<<<<< HEAD
   background-color: rgba(22, 151, 238, 0.05);
-=======
-  background-color: #fff;
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
 }
 
@@ -1946,10 +1875,7 @@ blockquote {
 .step-title {
   margin-bottom: 10px;
   text-align: center;
-<<<<<<< HEAD
   color: white;
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .step-description {
@@ -2145,7 +2071,6 @@ blockquote {
   z-index: 2;
   width: 360px;
   height: 722px;
-  background-image: url("../images/iPhone-X---Light---Transparent.svg");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2721,10 +2646,7 @@ blockquote {
 
 .footer-heading {
   margin-bottom: 10px;
-<<<<<<< HEAD
   color: white;
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .footer-heading.for-footer-buttons {
@@ -2749,11 +2671,7 @@ blockquote {
 .footer-link {
   display: block;
   margin-bottom: 10px;
-<<<<<<< HEAD
   color: #ffffff;
-=======
-  color: #08104d;
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .footer-link.inline {
@@ -2762,10 +2680,7 @@ blockquote {
 
 .footer-info {
   margin-bottom: 10px;
-<<<<<<< HEAD
   color: white;
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
 }
 
 .footer-social-links-column {
@@ -3621,26 +3536,17 @@ blockquote {
   }
   .paragraph-large.for-user-full-name {
     text-align: center;
-<<<<<<< HEAD
     color: white;
   }
   .paragraph-small.for-user-designation {
     text-align: center;
     color: white;
-=======
-  }
-  .paragraph-small.for-user-designation {
-    text-align: center;
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
   }
   .text-field.for-coming-soon {
     width: 100%;
     margin-right: 0px;
     margin-bottom: 20px;
-<<<<<<< HEAD
     color: #36e2bc;
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
   }
   .text-field.for-subscribe {
     width: 100%;
@@ -3654,10 +3560,6 @@ blockquote {
   .section.for-how-it-works {
     background-position: 50% 63%, 50% 96px;
   }
-<<<<<<< HEAD
-
-=======
->>>>>>> f02dd9f6280f49e0815d425125212701011a2ff2
   .counter-block {
     width: 72px;
     padding: 10px;
